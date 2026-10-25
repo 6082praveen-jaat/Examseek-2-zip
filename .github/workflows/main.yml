@@ -37,3 +37,4 @@ jobs:
       with:
         name: Examseek-Debug-APK
         path: app/build/outputs/apk/debug/*.apk
+        
